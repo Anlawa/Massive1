@@ -64,9 +64,9 @@ public class Main {
             if (weight1[i] % 2 == 1) {
                 weight1[i]++;
             }
-                System.out.print(weight1[i]);
-                if (i != weight1.length - 1) {
-                    System.out.print(", ");
+            System.out.print(weight1[i]);
+            if (i != weight1.length - 1) {
+                System.out.print(", ");
             }
         }
     }
