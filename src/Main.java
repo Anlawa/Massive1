@@ -67,11 +67,7 @@ public class Main {
                 System.out.print(weight1[i]);
                 if (i != weight1.length - 1) {
                     System.out.print(", ");
-
-
             }
-
-
         }
     }
 }
